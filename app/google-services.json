@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334605357529",
+    "firebase_url": "https://navdra-f1496.firebaseio.com",
+    "project_id": "navdra-f1496",
+    "storage_bucket": "navdra-f1496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334605357529:android:2a60e3c293b65e34ab49c8",
+        "android_client_info": {
+          "package_name": "com.example.navdra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334605357529-uh0vjotauj2fm6e76nsgpf0cscmefhmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButKWZInhR23bEPWQ8NSX62xN1y-9B-Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334605357529-uh0vjotauj2fm6e76nsgpf0cscmefhmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

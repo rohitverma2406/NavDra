@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/edit_prof"
+            android:title="Edit_Profile"/>
+        <item
+            android:id="@+id/leaderboard"
+            android:title="Leaderboard"/>
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"/>
+    </group>
+    <item android:title="communicate"/>
+
+    <group>
+        <item
+            android:id="@+id/useapp"
+            android:title="How"/>
+
+        <item
+            android:id="@+id/about"
+            android:title="about" />
+        <item
+            android:id="@+id/need"
+            android:title="Need Help" />
+        <item
+            android:id="@+id/report"
+            android:title="Report"/>
+    </group>
+
+
+
+
+
+</menu>
